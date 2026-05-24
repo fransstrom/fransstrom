@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi! 👋 I'm Frans
 
-<!--
-**fransstrom/fransstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded systems student and former fullstack developer. I build things with ESP32s and Raspberry Pis, run my own servers, and tinker with home automation.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ESP32 + Philips Hue control over MQTT
+- Home server with Docker, Traefik, Node-RED and a bunch of selfhosted services
+- Running (and breaking) an AI agent on a Raspberry Pi
+
+## Stack
+
+C/C++, ESP-IDF, MQTT, Linux, Docker, PHP, TypeScript, React
+
+## Contact
+
+frans.herrstrom@gmail.com — [mrpwr.se](https://mrpwr.se)
