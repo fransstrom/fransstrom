@@ -1,17 +1,11 @@
-# Hi! 👋 I'm Frans
+# Frans Herrström
 
-Embedded systems student and former fullstack developer. I build things with ESP32s and Raspberry Pis, run my own servers, and tinker with home automation.
+Embedded and fullstack. I like when things work — and fixing them when they don't.
 
-## What I'm working on
+Right now: building home automation over MQTT with ESP32s, and running a homelab that keeps growing.
 
-- ESP32 + Philips Hue control over MQTT
-- Home server with Docker, Traefik, Node-RED and a bunch of selfhosted services
-- Running (and breaking) an AI agent on a Raspberry Pi
+I manage my own servers — reverse proxy, dashboards, CI/CD, and various services.
 
-## Stack
+Mostly using: ESP-IDF, C/C++, Linux, Docker, Traefik, TypeScript
 
-C/C++, ESP-IDF, MQTT, Linux, Docker, PHP, TypeScript, React
-
-## Contact
-
-frans.herrstrom@gmail.com — [mrpwr.se](https://mrpwr.se)
+[mrpwr.se](https://mrpwr.se) · frans.herrstrom@gmail.com
